@@ -88,3 +88,6 @@ ol, ul {
   margin-left: 20px;
 }
 
+.winner-cls{
+	background: green;
+}
